@@ -47,3 +47,9 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# sublime project files
+*.sublime*
+
+# test file
+test.R
